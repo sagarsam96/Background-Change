@@ -30,22 +30,29 @@ body{
     padding: 20px;
     border-radius: 50%;
     display: inline-block;
+    border: 5px solid white;
+     
+
 }
 
 #color1{
     background-color: red;
-    }
+    outline: 3px solid red;    
+}
 
 #color2{
     background-color: blue;
+    outline: 3px solid blue;
 }
 
 #color3{
     background-color:green;
+    outline: 3px solid green
 }
 
 #color4{
     background-color: yellow;
+    outline: 3px solid yellow;
 }
 footer{
     background-color: yellow;
